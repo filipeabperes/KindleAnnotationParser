@@ -1,4 +1,6 @@
 LastParseDate.txt
 Parsed Annotations
 
+*.class
+
 .DS_Store
