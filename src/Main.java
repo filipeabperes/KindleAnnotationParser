@@ -255,9 +255,8 @@ public class Main
         
         mainFrame.setVisible(true);
         mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-//        mainFrame.setSize(700, 270);
         mainFrame.pack();
-        mainFrame.setSize(mainFrame.getHeight(), 270);
+        mainFrame.setSize(800, 300);
         mainFrame.setLocationRelativeTo(null);
     }
     
